@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔒 Note on my GitHub Activity
+
+Most of my recent work is in private or NDA-protected repositories across multiple corporate and research internships. Consequently, my GitHub contribution graph only shows a small fraction of my actual development work.
+
