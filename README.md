@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔒 Note on my GitHub Activity
+### 🔒 Note on my GitHub Activity
 
-Most of my recent work is in private or NDA-protected repositories across multiple corporate and research internships. Consequently, my GitHub contribution graph only shows a small fraction of my actual development work.
+Please note that this public graph does not reflect my full development activity:
+* **Other Accounts:** Some of my recent work is done under separate corporate or organization accounts.
+* **Outside GitHub:** Some of my main projects such as research internship are hosted on non-GitHub internal environments due to confidentiality.
+
 
