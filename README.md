@@ -70,7 +70,7 @@ summaries are available in my portfolio.
 
 ## Skills
 
-- **Programming:** Python, TypeScript, JavaScript, C, SQL, R
+- **Programming:** Python, TypeScript, JavaScript, C, C++, Rust, SQL, R
 - **AI / ML:** PyTorch, Hugging Face, LoRA / QLoRA, YOLO, scikit-learn
 - **Web / Cloud:** Next.js, FastAPI, PostgreSQL, AWS, Docker, Linux, Git
 
